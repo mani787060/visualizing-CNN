@@ -300,5 +300,3 @@ Possible extensions include:
 - [TensorFlow Documentation](https://www.tensorflow.org/)
 - [Keras VGG16 Documentation](https://keras.io/api/applications/vgg/)
 - [Keras Functional API](https://keras.io/guides/functional_api/)
-
----
