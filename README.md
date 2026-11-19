@@ -302,5 +302,3 @@ Possible extensions include:
 - [Keras Functional API](https://keras.io/guides/functional_api/)
 
 ---
-
-**Part of my Deep Learning and Computer Vision learning journey:** exploring how CNNs learn visual representations and understanding their internal behavior through feature-map visualization.
